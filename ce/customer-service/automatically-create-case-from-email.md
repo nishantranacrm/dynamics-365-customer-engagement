@@ -75,7 +75,7 @@ Reduce the need for manually creating cases from incoming emails and increase th
 
       | “Automatically create records in [!INCLUDE[pn_dynamics_crm](../includes/pn-dynamics-crm.md)]” option is set to: | If “Create case from unknown sender” option in this rule is set to: |    Contact or case created?     |
       |-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------|
-      |                                                   Create Lead                                                   |                              Selected                               | Both, contact and case, created |
+      |                                                   Create Lead                                                   |                              Selected                               | Both, lead and case, created |
       |                                                   Create Lead                                                   |                            Not selected                             |              None               |
       |                                                 Create Contact                                                  |                              Selected                               | Both, contact and case, created |
       |                                                 Create Contact                                                  |                            Not selected                             |      Only contact created       |
